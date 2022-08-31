@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.103581e0.css",
-    "main.js": "/static/js/main.c980c200.js",
+    "main.js": "/static/js/main.ea6b8ec7.js",
     "static/js/787.1111a841.chunk.js": "/static/js/787.1111a841.chunk.js",
     "static/media/discord-logo.svg": "/static/media/discord-logo.8b09fa0d03453199bb311ace7f342c8b.svg",
     "static/media/dashboard.svg": "/static/media/dashboard.1cebc6df09d4d59e14429e15d1a4341a.svg",
@@ -338,11 +338,11 @@
     "static/media/triangle-down.svg": "/static/media/triangle-down.35ae4dbd1a0587d9e3c97f4eb3aa3767.svg",
     "static/media/triangle-up.svg": "/static/media/triangle-up.d44ee273bfbe7a9f6576dfa6cc3af565.svg",
     "main.103581e0.css.map": "/static/css/main.103581e0.css.map",
-    "main.c980c200.js.map": "/static/js/main.c980c200.js.map",
+    "main.ea6b8ec7.js.map": "/static/js/main.ea6b8ec7.js.map",
     "787.1111a841.chunk.js.map": "/static/js/787.1111a841.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.103581e0.css",
-    "static/js/main.c980c200.js"
+    "static/js/main.ea6b8ec7.js"
   ]
 }
